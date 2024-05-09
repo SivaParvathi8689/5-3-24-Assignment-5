@@ -1,3 +1,4 @@
+#Sivaparvathi Yanikapati
 # Read the data
 data <- read.csv("C:\\Users\\yspar\\Downloads\\demographics.csv", stringsAsFactors = FALSE)
 
